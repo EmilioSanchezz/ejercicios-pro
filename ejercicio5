@@ -1,0 +1,11 @@
+public class Ejercicio4{
+    public static void main(String[] args){
+        
+        System.out.println("Introduce un numero");
+        int x;
+        x=euros
+        int pesetas;
+        pesetas=x+166
+
+        }
+        }
